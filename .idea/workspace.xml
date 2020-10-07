@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1f1bc2-8c78-4131-8a50-f9aae1a3e970" name="Default Changelist" comment="f" />
+    <list default="true" id="0a1f1bc2-8c78-4131-8a50-f9aae1a3e970" name="Default Changelist" comment="f">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aio_meganetapp_bot" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -129,25 +131,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="0" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596959889615" />
-    <state x="326" y="458" key="FileChooserDialogImpl" timestamp="1596959843719">
+    <state x="326" y="458" key="FileChooserDialogImpl" timestamp="1602090614567">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="326" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596959843719" />
-    <state width="965" height="397" key="GridCell.Tab.0.bottom" timestamp="1596965473230">
+    <state x="326" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1602090614567" />
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1597774821604">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="965" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596965473230" />
-    <state width="965" height="397" key="GridCell.Tab.0.center" timestamp="1596965473230">
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597774821604" />
+    <state width="2539" height="399" key="GridCell.Tab.0.center" timestamp="1597774821604">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="965" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596965473230" />
-    <state width="965" height="397" key="GridCell.Tab.0.left" timestamp="1596965473230">
+    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597774821604" />
+    <state width="2539" height="399" key="GridCell.Tab.0.left" timestamp="1597774821604">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="965" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596965473230" />
-    <state width="965" height="397" key="GridCell.Tab.0.right" timestamp="1596965473230">
+    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597774821604" />
+    <state width="2539" height="399" key="GridCell.Tab.0.right" timestamp="1597774821604">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="965" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596965473230" />
+    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597774821604" />
   </component>
 </project>
